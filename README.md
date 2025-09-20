@@ -11,8 +11,8 @@
 <div align="center">
   <p>- 👨‍💻 I’m currently working on <strong>Spring Framework, Kubernetes, System Design & Algorithms</strong></p> 
   <p>- 🤝 Always looking for new projects and to learn new things</p>
-  <p>- 📝 All of my projects are available https://github.com/william-wtr92</p>
-  <p>- 🔎 For algorithms, find me here on LeetCode: https://leetcode.com/william-wtr92/</p>
+  <p>- 📝 All of my projects are available https://github.com/williamw-dev</p>
+  <p>- 🔎 For algorithms, find me here on LeetCode: https://leetcode.com/williamw-dev/</p>
   <p>- 💬 Ask me about <strong>Web Development</strong> </p> 
 </div>
 
@@ -101,32 +101,25 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
   
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=william-wtr92&theme=material-palenight)](https://github.com/william-wtr92)
-[![](https://github-readme-stats.vercel.app/api/top-langs?username=william-wtr92&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact)](https://github.com/william-wtr92)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=williamw-dev&theme=material-palenight)](https://github.com/williamw-dev)
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=williamw-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact)](https://github.com/williamw-dev)
 
-[![](https://github-profile-trophy.vercel.app/?username=william-wtr92&theme=onedark)](https://github.com/william-wtr92)
+[![](https://github-profile-trophy.vercel.app/?username=williamw-dev&theme=onedark)](https://github.com/williamw-dev)
 
 </div>
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
-------
-
 <div align="center">
   <p>
     Credit: 
-    <a href="https://github.com/william-wtr92">william-wtr92</a>
+    <a href="https://github.com/williamw-dev">williamw-dev</a>
   </p>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=william-wtr92&label=Profile%20views&color=da1010&style=flat-square"/>
+    <img src="https://komarev.com/ghpvc/?username=williamw-dev&label=Profile%20views&color=da1010&style=flat-square"/>
   </p>
   <p>
-    <strong>Last update: 13/10/2023</strong>
+    <strong>Last update: 20/09/2025</strong>
   </p>
 </div>
 
